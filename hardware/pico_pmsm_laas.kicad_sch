@@ -8935,7 +8935,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser" ""
+		(property "mouser" "810-CGA2B3X7R1H104MD"
 			(at 265.43 72.39 0)
 			(effects
 				(font
@@ -14665,7 +14665,7 @@
 				(hide yes)
 			)
 		)
-		(property "mouser" ""
+		(property "mouser" "603-CC603KRX7R7BB105"
 			(at 172.72 39.37 0)
 			(effects
 				(font
