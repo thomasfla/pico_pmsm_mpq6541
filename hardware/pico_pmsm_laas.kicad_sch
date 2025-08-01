@@ -5481,6 +5481,12 @@
 		(uuid "0c1fafd3-ccc2-4271-9b8d-96655fd84312")
 	)
 	(junction
+		(at 184.15 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "164b458c-ab2e-4120-854e-7747bfae754d")
+	)
+	(junction
 		(at 199.39 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5611,12 +5617,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d5f8ea7-fcca-4d13-8796-929884f3d98a")
-	)
-	(junction
-		(at 184.15 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a2da9978-b736-4cbc-acff-5b2cacd9da28")
 	)
 	(junction
 		(at 148.59 53.34)
@@ -8405,6 +8405,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "MPQ6541AGQKTE-AEC1-P"
+			(at 250.19 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "946-MPQ6541AGQKTE-P"
+			(at 250.19 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "18"
 			(uuid "886b1808-0c3a-47cb-b599-db36b5bc32ef")
 		)
@@ -8610,6 +8628,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 105.41 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "44e26b32-56f1-411f-b8ae-63830a14aafa")
 		)
@@ -8671,6 +8698,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 113.03 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "80-C0402C104M4RACLR"
+			(at 113.03 168.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0402C104M4RAC7411"
+			(at 113.03 168.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8890,6 +8935,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 265.43 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c18e5f9-eea3-403a-8722-c43f99623a06")
 		)
@@ -8959,6 +9013,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 148.59 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cf3a22a1-7d31-4feb-bb2a-c32b25b8ac88")
 		)
@@ -9020,6 +9083,15 @@
 		)
 		(property "Description" "Mounting Hole with connection"
 			(at 158.75 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
+			(at 158.75 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9151,6 +9223,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 64.77 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "80-C0402C104M4RACLR"
+			(at 64.77 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0402C104M4RAC7411"
+			(at 64.77 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9293,6 +9383,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" " MSS1P4-M3/89A"
+			(at 49.53 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "625-MSS1P4-M3"
+			(at 49.53 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0efb4d72-0146-4876-8e5a-fb6f3fca81cb")
 		)
@@ -9354,6 +9462,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 87.63 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "80-C0402C104M4RACLR"
+			(at 87.63 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0402C104M4RAC7411"
+			(at 87.63 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9423,6 +9549,24 @@
 			)
 		)
 		(property "Description" "16-bit, 4-Channel, 250kSPS, PulSAR ADC, Bipolar-Unipolar, LFCSP-20"
+			(at 74.93 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AD7682BCPZRL7"
+			(at 74.93 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "584-AD7682BCPZR7"
 			(at 74.93 152.4 0)
 			(effects
 				(font
@@ -9689,6 +9833,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 114.3 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "222fe26a-7e20-46be-b78a-09604bc0adad")
 		)
@@ -9765,6 +9918,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 222.25 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f9ca183d-7a13-4a86-a8e5-47497d60d352")
 		)
@@ -9830,6 +9992,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 196.85 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MPQ6541AGQKTE-AEC1-P"
+			(at 196.85 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "946-MPQ6541AGQKTE-P"
 			(at 196.85 143.51 0)
 			(effects
 				(font
@@ -10046,6 +10226,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 154.94 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "79be2dc1-7ea4-4e04-8a8d-377847ab177b")
 		)
@@ -10106,6 +10295,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 179.07 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
 			(at 179.07 67.31 0)
 			(effects
 				(font
@@ -10253,6 +10451,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 161.29 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "919e08cf-e91d-4c21-b413-a9dcb7b67735")
 		)
@@ -10380,6 +10587,15 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, small symbol, bridged"
+			(at 203.2 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
 			(at 203.2 100.33 0)
 			(effects
 				(font
@@ -10525,6 +10741,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 276.86 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "326a998a-ad7f-421b-9612-c050aeb3477f")
 		)
@@ -10660,6 +10885,24 @@
 			)
 		)
 		(property "Description" "1MHz, Low-Power Op Amp, SOT-23-5"
+			(at 111.76 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MCP6001RT-I/OT"
+			(at 111.76 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "579-MCP6001RT-I/OT"
 			(at 111.76 179.07 0)
 			(effects
 				(font
@@ -10878,6 +11121,24 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" "80-C0402C104M4RACLR"
+			(at 54.61 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0402C104M4RAC7411"
+			(at 54.61 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0786f289-5daa-42e2-b401-70501e97214d")
 		)
@@ -10954,6 +11215,94 @@
 			(project ""
 				(path "/ab7245ae-d43a-43ee-9eaa-e2b1e96ca092"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 184.15 93.98 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "77247e13-35a8-4268-9901-fa213ede17af")
+		(property "Reference" "C16"
+			(at 187.96 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100n"
+			(at 187.96 95.2499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 183.1848 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 184.15 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "80-C0402C104M4RACLR"
+			(at 184.15 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0402C104M4RAC7411"
+			(at 184.15 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "781cc624-f4ba-4d7c-96bf-eb6f2c56ca6b")
+		)
+		(pin "2"
+			(uuid "7637db9f-299e-4ba6-a864-750d658a6938")
+		)
+		(instances
+			(project "pico_pmsm_laas"
+				(path "/ab7245ae-d43a-43ee-9eaa-e2b1e96ca092"
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -11072,6 +11421,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 161.29 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
+			(at 161.29 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11214,6 +11572,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "TSR1-2450E"
+			(at 31.75 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "495-TSR1-2450E"
+			(at 31.75 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "afc38cee-5091-452d-baff-4140e3bebda8")
 		)
@@ -11279,6 +11655,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 41.91 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
 			(at 41.91 158.75 0)
 			(effects
 				(font
@@ -11424,6 +11809,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "MPN" "THVD2450DRBR"
+			(at 153.67 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "595-THVD2450DRBR"
+			(at 153.67 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -11584,6 +11987,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 17.78 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c46dca26-d9dc-482f-990f-291323b2f4aa")
 		)
@@ -11646,6 +12058,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 17.78 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
 			(at 17.78 81.28 0)
 			(effects
 				(font
@@ -11717,6 +12138,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 163.83 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
 			(at 163.83 138.43 0)
 			(effects
 				(font
@@ -12058,6 +12488,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 158.75 175.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "37379c0a-9fc6-46a1-8684-455987eaf112")
 		)
@@ -12118,6 +12557,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 148.59 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
 			(at 148.59 138.43 0)
 			(effects
 				(font
@@ -12196,6 +12644,24 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" "80-C0402C104M4RACLR"
+			(at 133.35 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0402C104M4RAC7411"
+			(at 133.35 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2414e05d-5f3e-4647-b2b1-3cd0fa79e3b0")
 		)
@@ -12258,6 +12724,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 154.94 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
+			(at 154.94 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12402,6 +12877,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 17.78 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b45a232e-0bc4-466c-85a4-dd8c39d8d28c")
 		)
@@ -12465,6 +12949,15 @@
 		)
 		(property "Description" "Versatile and inexpensive microcontroller module (with full pinout for test point and debug connections) powered by RP2040 dual-core Arm Cortex-M0+ processor up to 133 MHz, 264kB SRAM, 2MB QSPI flash; also supports Raspberry Pi Pico 2"
 			(at 66.04 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
+			(at 66.04 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12675,6 +13168,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 26.67 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "80-C0402C104M4RACLR"
+			(at 26.67 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0402C104M4RAC7411"
 			(at 26.67 153.67 0)
 			(effects
 				(font
@@ -13084,6 +13595,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 128.27 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ab172f19-e1fb-4fed-8348-0cb126e44996")
 		)
@@ -13152,6 +13672,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "AP22818AKEWT-7"
+			(at 91.44 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" "621-AP22818AKEWT-7"
+			(at 91.44 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c88a02f2-8ac4-431b-818a-fa8aba35410c")
 		)
@@ -13171,75 +13709,6 @@
 			(project ""
 				(path "/ab7245ae-d43a-43ee-9eaa-e2b1e96ca092"
 					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 184.15 93.98 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d18bfa6e-745c-4555-ba2f-140114d9fe5a")
-		(property "Reference" "C16"
-			(at 184.658 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 187.96 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 185.1152 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 184.15 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 184.15 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7062cb79-a1a4-4f88-bb65-cb77c0eef4b7")
-		)
-		(pin "2"
-			(uuid "42bc7d57-8eb6-454e-997c-5754ef5dab54")
-		)
-		(instances
-			(project "pico_pmsm_laas"
-				(path "/ab7245ae-d43a-43ee-9eaa-e2b1e96ca092"
-					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -13292,6 +13761,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 148.59 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
+			(at 148.59 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13437,6 +13915,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 138.43 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3eb09db6-ae46-40a6-94ba-b9ccd70bab26")
 		)
@@ -13499,6 +13986,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 173.99 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
 			(at 173.99 138.43 0)
 			(effects
 				(font
@@ -13586,6 +14082,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" "81-GRM188Z71A475KE5D"
+			(at 193.04 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0a5c2f2-64ef-4d05-9e91-3128753236ad")
 		)
@@ -13647,6 +14152,15 @@
 		)
 		(property "Description" "Mounting Hole with connection"
 			(at 158.75 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
+			(at 158.75 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13779,6 +14293,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 184.15 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
 			(at 184.15 138.43 0)
 			(effects
 				(font
@@ -13989,6 +14512,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 158.75 179.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f898457b-6bd3-46a0-bcee-dee51f3f3570")
 		)
@@ -14133,6 +14665,15 @@
 				(hide yes)
 			)
 		)
+		(property "mouser" ""
+			(at 172.72 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5810450b-6f05-4c27-8235-e98f9d7f9297")
 		)
@@ -14195,6 +14736,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 208.28 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mouser" ""
 			(at 208.28 104.14 0)
 			(effects
 				(font
